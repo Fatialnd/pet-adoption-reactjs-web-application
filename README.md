@@ -11,11 +11,3 @@ It is a page to see animals available for adoption, it is a project developed in
 </h4>
 
 <br />
-
-<h3 align="center">
-
-I am eager to improve my web programming technique
-
-and acquire knowledge about other languages.
-
-</h3>
